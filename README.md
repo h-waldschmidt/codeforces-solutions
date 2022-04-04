@@ -1,3 +1,3 @@
 # codeforces-solutions
 
-Here I save all my solutions to problems on codeforces.
+This repository contains solutions to some of the problems found on [codeforces](https://codeforces.com/)
