@@ -1,4 +1,4 @@
 # competitive-programming
 
-This repository contains solutions to problems found on [codeforces](https://codeforces.com/), [projecteuler](https://projecteuler.net/about)
+This repository contains solutions to problems found on [codeforces](https://codeforces.com/)
 and other sites.
