@@ -1,7 +1,9 @@
 #include <unordered_map>
 #include <vector>
+
 using namespace std;
 
+// solution in O(n)
 class Solution
 {
   public:
